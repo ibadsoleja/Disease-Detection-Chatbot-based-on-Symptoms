@@ -1,4 +1,4 @@
-# Disease-Detection-based-on-Symptoms-Chatbot
+# Disease-Detection-Chatbot-based-on-Symptoms
 
 Welcome to our Disease Detection Chatbot! This tool is designed to help you identify potential diseases based on the symptoms you provide. Let's dive into how it works and how you can use it effectively.
 
